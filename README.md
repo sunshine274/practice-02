@@ -17,6 +17,7 @@
 ### Technologies Used
 
 Bootstrap
+sticky navbar
 
 ### Testing
 
@@ -27,6 +28,7 @@ Bootstrap
 #### Content
 
 - the code for section X was copied from ...
+W3School
 
 #### Media
 
