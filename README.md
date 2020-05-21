@@ -1,39 +1,39 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+## MS1 Practice
 
-Welcome USER_NAME,
+### UX
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+1. **Strategy:**
 
-## Gitpod Reminders
+2. **Scope:**
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+3. **Structure:**
 
-`python3 -m http.server`
+4. **Skeleton:**
 
-A blue button should appear to click: *Make Public*,
+5. **Surface:**
 
-Another blue button should appear to click: *Open Browser*.
+### Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Technologies Used
 
-A blue button should appear to click: *Make Public*,
+Bootstrap
 
-Another blue button should appear to click: *Open Browser*.
+### Testing
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+### Deployment
 
-## Updates Since The Instructional Video
+### Credits
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+#### Content
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- the code for section X was copied from ...
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+#### Media
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+- contact bg img Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2944064">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2944064">Pixabay</a>
+- about Image by <a href="https://pixabay.com/users/LUM3N-1066559/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1949192">LUM3N</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1949192">Pixabay</a>
+* westminster bridge photo by Dominika Gregušová from Pexels
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+#### Acknowledgements
 
---------
-
-Happy coding!
+-
